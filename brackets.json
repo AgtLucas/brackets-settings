@@ -1,0 +1,8 @@
+{
+    "closeBrackets": true,
+    "spaceUnits": 2,
+    "styleActiveLine": true,
+    "com.github.dsbonev.WhitespaceNormalizer.enabled": "true",
+    "brackets-indent-guides.enabled": true,
+    "sortDirectoriesFirst": true
+}
