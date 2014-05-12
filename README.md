@@ -1,4 +1,3 @@
-brackets-settings
-=================
+### Brackets settins
 
-Settings for Brackets
+Settings for Brackets v38
